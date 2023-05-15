@@ -16,7 +16,7 @@ function Graph() {
 
     const [result, setResult] = useState()
     const filename = 'data.csv';
-    const [fileSize, setFileSize] = useState(0)
+    
     const headers = [
         {
             label: "Words", key: "word"
