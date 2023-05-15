@@ -70,7 +70,6 @@ function Graph() {
             link.click();
             document.body.removeChild(link);
         }
-        setFileSize(blob.size);
     };
 
 
@@ -101,9 +100,9 @@ function Graph() {
 
 
             <div className='justify-center flex' >
-                <div className='button px-8' data-tooltip={`size: ${fileSize}`} >
+                <div className='button px-8'>
                     <button className='button-wrapper' onClick={exportToCsv}>
-                        <div className='text'>Download</div>
+                        <div className='text'>Export</div>
                         <span className='icon'>
                             <img src={download} alt="download-button" className='icon-svg' />
                         </span>
