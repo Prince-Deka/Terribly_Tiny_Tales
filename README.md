@@ -1,12 +1,13 @@
 # Prince Kr Deka
 
 ## Registration Number: 12006624
+## Lovely Professional University
 
 ![lpu](https://github.com/Prince-Deka/Terribly_Tiny_Tales/assets/73701430/33bb6c72-f414-4405-b2b7-391828c2c40d)
 
 ### Submitted To:
 
-## Terribly Tiny Tales
+# Terribly Tiny Tales
 
 # Deployed Link: https://prince-terriblytinytales.netlify.app/
 
